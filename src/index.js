@@ -1,3 +1,4 @@
 import './css/styles.css';
-/* import menu from './data/menu.json';
-import model from './templates/model.hbs'; */
+import './js/markup.js';
+import './js/storage.js';
+import './js/themes.js';
