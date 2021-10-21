@@ -1,5 +1,5 @@
 # production
-/build
+#/build
 
 # Logs
 logs
@@ -66,3 +66,4 @@ typings/
 .env.development.local
 .env.test.local
 .env.production.local
+node_modules
